@@ -41,10 +41,6 @@ Spring Boot 기반 웹 프로젝트와 협업 중심의 그룹웨어 개발 경�
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYG17)](https://github.com/KYG17/github-readme-stats)
-
----
-
 ## 🧩 프로젝트
 
 ### 💼 IT 회사 그룹웨어 **Eroom**
@@ -68,3 +64,7 @@ Spring Boot 기반 웹 프로젝트와 협업 중심의 그룹웨어 개발 경�
 ## 📫 Contact  
 📧 Email: sjkyg17@gmail.com  
 📍 Notion: [노션 포트폴리오 바로가기](https://www.notion.so/1f25116d18d580358c5cc19d47111060)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYG17)](https://github.com/KYG17/github-readme-stats)
