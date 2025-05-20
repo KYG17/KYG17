@@ -7,7 +7,7 @@ Spring Boot 기반 웹 프로젝트와 협업 중심의 그룹웨어 개발 경�
 
 ---
 
-## 💻 Tech Stack
+## 💻 보유기술
 
 ### 🚀 Language & Frontend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
