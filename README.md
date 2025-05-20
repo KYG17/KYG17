@@ -24,7 +24,6 @@ Spring Boot 기반 웹 프로젝트와 협업 중심의 그룹웨어 개발 경�
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🛠 Dev Tools
-![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
