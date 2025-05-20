@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요,%20백엔드%20개발자%20권용규입니다!&fontSize=40&fontAlign=70&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요%20권용규입니다&fontSize=50"/>
 
 ## 👋 About Me
 꾸준함을 무기로 성장 중인 신입 백엔드 개발자 권용규입니다.  
