@@ -58,5 +58,5 @@ Spring Boot 기반 웹 프로젝트와 협업 중심의 그룹웨어 개발 경�
 
 
 ## 📫 Contact
-📧 Email: [sjkyg17@gmail.com] ---
-📍 Notion: [https://www.notion.so/1f25116d18d580358c5cc19d47111060]
+📧 Email: [sjkyg17@gmail.com] 
+📍 Notion: (노션)[https://www.notion.so/1f25116d18d580358c5cc19d47111060]
