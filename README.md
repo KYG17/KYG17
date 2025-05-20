@@ -40,7 +40,25 @@ Spring Boot 기반 웹 프로젝트와 협업 중심의 그룹웨어 개발 경�
 ### 🗄 Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
+## 🧩 Projects
+
+### 💼 IT 회사 그룹웨어 **Eroom**
+- 🗓 **기간**: 2025.04.17 ~ 2025.05.23  
+- 🛠 **기술**: Java, Spring Boot, Thymeleaf, MariaDB, HTML, JavaScript  
+- 📝 **설명**:  
+  회사 내 일정, 근태, 전자결재 등 업무 전반을 통합한 그룹웨어 서비스  
+  GitHub API / Sonar API 연동을 통한 개발자 협업 기능도 포함
+
 ---
+
+### ⚽ 풋살장 예약 & 팀 매칭 서비스
+- 🗓 **기간**: 2025.02.24 ~ 2025.03.11  
+- 🛠 **기술**: Java, Servlet/JSP, EL/JSTL, MyBatis, MariaDB  
+- 📝 **설명**:  
+  풋살장을 예약하고 팀을 매칭해주는 웹 서비스  
+  JSP 기반 예약 기능과 로그인/회원가입, 게시판 구현---
+
+
 
 ## 📫 Contact
 📧 Email: [your_email@example.com]  
