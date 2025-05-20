@@ -40,7 +40,7 @@ Spring Boot 기반 웹 프로젝트와 협업 중심의 그룹웨어 개발 경�
 ### 🗄 Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-## 🧩 프로젝
+## 🧩 프로젝트
 
 ### 💼 IT 회사 그룹웨어 **Eroom**
 - 🗓 **기간**: 2025.04.17 ~ 2025.05.23  
@@ -58,5 +58,5 @@ Spring Boot 기반 웹 프로젝트와 협업 중심의 그룹웨어 개발 경�
 
 
 ## 📫 Contact
-📧 Email: [sjkyg17@gmail.com] 
+📧 Email: [sjkyg17@gmail.com] ---
 📍 Notion: [https://www.notion.so/1f25116d18d580358c5cc19d47111060]
